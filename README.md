@@ -95,7 +95,6 @@ Com todo esse processo feito temos que adicionar a dependência do `common` no n
 
 ```json
 {
-  ...,
   "dependencies": {
     "@yarn-workspaces/common": "1.0.0"
   }
